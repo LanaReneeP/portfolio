@@ -5,11 +5,12 @@
 
 * {box-sizing: border-box;}
 
+/* classes */
+
 .intro-page {
     background-color: #1b4332;
     background-image: url(../images/firewatch-forest.jpg);
 }
-
 
 .intro-icon {
     padding-top: 20px;
@@ -20,7 +21,6 @@
     background-color: white;
     border-radius: 20px;
 }
-
 
 .main-icon {
     padding-top: 20px;
@@ -85,11 +85,6 @@
     border: 20px solid white;
 }
 
-.main-page2 {
-    /* background-color: var(--color1);
-    border: 20px solid white; */
-}
-
 .like-text {
     border: 1px solid white;
     padding: 20px;
@@ -140,7 +135,7 @@
     padding: 5px;
 }
 
-
+/* ids */
 
 #footer {
     border: 1px solid var(--color1);
